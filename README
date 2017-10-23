@@ -1,4 +1,4 @@
-# nn_c2
+#nn_c2
 
 A basic Neural Network designed to train on MNIST data. It is a simple network with 2 hidden layers.
 The optimization is done via feed forward and backpropogation using a squared error cost function and sigmoid
@@ -8,6 +8,6 @@ Built using the formulas found in [this book](http://neuralnetworksanddeeplearni
 
 Download the MNIST data in CSV format [here](https://pjreddie.com/projects/mnist-in-csv/).
 
-## Libraries
+##Libraries
  - GNU GSL (GNU Scientific Library)
  - OpenBLAS
